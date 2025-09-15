@@ -2,4 +2,15 @@ body{
     background-color: rgb(223, 39, 174);
     color: black;
    font-family: "Story Script", sans-serif;
+   margin: 0px;
 }
+
+header{
+    font-size: 56px;
+border: solid  5px black
+
+    h1{
+        font-size:25px;
+    }
+    p{
+        font-size: px 30;
